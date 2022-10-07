@@ -2,8 +2,8 @@ package hul;
 
 public class StartGame  {
 
-	public static final int SCREEN_WIDTH = 1280; // ÇÁ·¹ÀÓ ³ÐÀÌ
-	public static final int SCREEN_HEIGHT = 720; // ÇÁ·¹ÀÓ ³ôÀÌ
+	public static final int SCREEN_WIDTH = 1280; // ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½
+	public static final int SCREEN_HEIGHT = 720; // ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½
 	public static final long start = System.currentTimeMillis();
 	public static final long end = start + 10 * 1000; // 60 seconds * 1000 ms/sec
 
@@ -18,5 +18,5 @@ public class StartGame  {
 	}
 
 }
-//½ÃÀÛÈ­¸é ±¸¼º
-//ÀÌµ¿ ¾Ö´Ï¸ÅÀÌ¼Ç ±¸Çö
+//ï¿½ï¿½ï¿½ï¿½È­ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½
+//ï¿½Ìµï¿½ ï¿½Ö´Ï¸ï¿½ï¿½Ì¼ï¿½ ï¿½ï¿½ï¿½ï¿½
